@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jbarozet
 - 👀 I’m interested in routing (SDWAN mostly these days) and automation
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jbarozet@gmail.com
 
 <!---
