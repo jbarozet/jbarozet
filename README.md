@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @jbarozet
-- 👀  Linux and F.O.S.S enthusiast
+- 🔭  I'm a Linux and F.O.S.S enthusiast
 - 👀  I’m interested in routing (SDWAN mostly these days) and automation
 - 📫  How to reach me: contact@barozet.fr
 
