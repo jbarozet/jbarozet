@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @jbarozet
 - 🔭  I'm a Linux and F.O.S.S enthusiast
-- 👀  I’m interested in routing (SDWAN mostly these days) and automation
+- 👀  I’m interested in networking and infrastructure as code.
 - 📫  How to reach me: contact@barozet.fr
 
 <!---
